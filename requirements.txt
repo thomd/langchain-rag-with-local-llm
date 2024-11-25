@@ -1,4 +1,7 @@
 chromadb==0.5.20
 langchain==0.3.8
+langchain-community==0.3.8
+langchain-ollama==0.2.0
+langchain-chroma==0.1.4
 pypdf==5.1.0
 pytest==8.3.3
